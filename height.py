@@ -10,3 +10,5 @@ a=int(input("Enter degree or angle:"))
 
 h=height(x,a)
 print("Height:",h*0.30)
+
+print("Demo for GIT version control")
